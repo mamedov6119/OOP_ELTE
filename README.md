@@ -1,2 +1,3 @@
 # OOP_ELTE
-Course of Object Oriented Programming, and it's tasks.
+Course name: Object Oriented Programming.
+Assignments and exams.
